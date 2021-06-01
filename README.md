@@ -17,7 +17,7 @@ local DropShadowID = "rbxassetid://297774371"
 local DropShadowTransparency = 0.3
 
 local IconLibraryID = "rbxassetid://3926305904"
-local IconLibraryID2 = "rbxassetid://3926307971"
+local IconLibraryID2 = "rbxassetid://"
 
 local MainFont = Enum.Font.Gotham
 
